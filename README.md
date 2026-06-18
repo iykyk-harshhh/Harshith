@@ -1,5 +1,5 @@
 <!-- ============================================================
-  GitHub Profile README — HARSHH HK
+  GitHub Profile README — HARSHITH M
   Replace YOUR_USERNAME, email, phone, college, and grad year
   with your real details before publishing.
 ============================================================ -->
@@ -33,9 +33,9 @@
 ## 👋 About Me
 
 ```yaml
-name:        Harshh HK
+name:        HARSHITH M
 role:        Mobile App Developer · Flutter Developer · Web Developer
-location:    Chennai, Tamil Nadu, India
+location:    Coimbatore, Tamil Nadu, India
 focus:       Cross-platform apps, clean architecture, scalable UI/UX
 currently:   Deepening DevOps & Linux skills for end-to-end ownership
 education:   B.Sc. Computer Technology (80%)
