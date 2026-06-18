@@ -38,7 +38,12 @@
 <!-- Verified animated coding illustration -->
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="320" alt="coding animation"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&width=700" width="700"/>
+<br/><br/>
+
+<!-- Self-contained scrolling marquee (native SVG animation, lives in this repo) -->
+<img src="https://raw.githubusercontent.com/iykyk-harshhh/Harshith/main/assets/tech-marquee.svg" width="700" alt="scrolling tech marquee"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&width=700&animation=fadeIn" width="700"/>
 
 </div>
 
@@ -61,7 +66,7 @@ Fresher **Mobile App Developer**, **Web Developer**, and **AI-Assisted Creative 
 
 <br clear="right"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,16,20&height=2&section=header&width=700" width="700"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,16,20&height=2&section=header&width=700&animation=scaleIn" width="700"/>
 
 <br/>
 
@@ -89,7 +94,7 @@ Fresher **Mobile App Developer**, **Web Developer**, and **AI-Assisted Creative 
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24,6&height=2&section=header&width=700" width="700"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24,6&height=2&section=header&width=700&animation=fadeIn" width="700"/>
 
 <br/>
 
@@ -169,7 +174,7 @@ Fresher **Mobile App Developer**, **Web Developer**, and **AI-Assisted Creative 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&width=700" width="700"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&width=700&animation=scaleIn" width="700"/>
 
 ## 🚀 Featured Project
 
@@ -200,7 +205,7 @@ Fresher **Mobile App Developer**, **Web Developer**, and **AI-Assisted Creative 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,16,12&height=2&section=header&width=700" width="700"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,16,12&height=2&section=header&width=700&animation=fadeIn" width="700"/>
 
 ## 🎓 Education
 
@@ -233,12 +238,16 @@ Fresher **Mobile App Developer**, **Web Developer**, and **AI-Assisted Creative 
 
 <br/><br/>
 
-<!-- Animated contribution snake (GIF variant has a more fluid, glowing motion) -->
-<img src="https://raw.githubusercontent.com/iykyk-harshhh/Harshith/output/dist/github-contribution-grid-snake.gif" width="100%"/>
+<!-- Pac-Man contribution graph — ghosts chase Pac-Man through your real commit history -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iykyk-harshhh/Harshith/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iykyk-harshhh/Harshith/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/iykyk-harshhh/Harshith/output/pacman-contribution-graph.svg" width="100%"/>
+</picture>
 
 </div>
 
-> 🐍 **Animated snake setup** — I've included a ready-to-use `snake.yml` workflow alongside this README (in `.github/workflows/`). Drop that folder into your `Harshith` repo, commit it, and GitHub Actions will auto-generate this animation daily from your real contribution graph — no further setup needed. It runs once on push too, so the first GIF appears within a minute or two of committing.
+> 👻 **Animated Pac-Man setup** — I've included a ready-to-use `pacman.yml` workflow alongside this README (in `.github/workflows/`). Drop that folder into your `Harshith` repo, commit it, and GitHub Actions will turn your real commit history into a Pac-Man game daily — heavy contribution days become power pellets that send the ghosts running. No further setup needed; it also runs once immediately on push.
 
 <br/>
 
