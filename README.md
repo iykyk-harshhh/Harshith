@@ -33,6 +33,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=A855F7&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%F0%9F%9A%80+Building+apps+with+Flutter+%26+Dart+at+Krafty+Lumin;%E2%9C%A8+Crafting+AI-assisted+animations+%26+motion+UI;%F0%9F%8E%A8+Designing+scalable%2C+interactive+experiences;%F0%9F%90%A7+Currently+exploring+DevOps+%26+Linux" alt="Typing SVG" />
 
+<br/><br/>
+
+<!-- Verified animated coding illustration -->
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="320" alt="coding animation"/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&width=700" width="700"/>
 
 </div>
@@ -130,6 +135,13 @@ Fresher **Mobile App Developer**, **Web Developer**, and **AI-Assisted Creative 
 
 <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white&labelColor=F7971E" />
 
+<br/><br/>
+
+<!-- Compact animated-style icon strip (skillicons.dev) -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase,html,css,python,flask,sqlite,mysql,git,github,linux,vscode,blender&theme=dark&perline=8" />
+</a>
+
 </div>
 
 <br/>
@@ -221,12 +233,12 @@ Fresher **Mobile App Developer**, **Web Developer**, and **AI-Assisted Creative 
 
 <br/><br/>
 
-<!-- Animated contribution snake — see setup note below -->
-<img src="https://raw.githubusercontent.com/iykyk-harshhh/Harshith/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<!-- Animated contribution snake (GIF variant has a more fluid, glowing motion) -->
+<img src="https://raw.githubusercontent.com/iykyk-harshhh/Harshith/output/dist/github-contribution-grid-snake.gif" width="100%"/>
 
 </div>
 
-> 🐍 **To enable the animated snake**: add the free [`platane/snk`](https://github.com/Platane/snk) GitHub Action to your `Harshith` repo (`.github/workflows/snake.yml`) — it auto-generates that animated contribution-graph SVG on a schedule. Until it's set up, that image will show broken.
+> 🐍 **Animated snake setup** — I've included a ready-to-use `snake.yml` workflow alongside this README (in `.github/workflows/`). Drop that folder into your `Harshith` repo, commit it, and GitHub Actions will auto-generate this animation daily from your real contribution graph — no further setup needed. It runs once on push too, so the first GIF appears within a minute or two of committing.
 
 <br/>
 
