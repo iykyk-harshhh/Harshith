@@ -1,0 +1,59 @@
+<svg width="700" height="70" viewBox="0 0 700 70" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="marqueeClip">
+      <rect x="0" y="0" width="700" height="70" rx="12"/>
+    </clipPath>
+  </defs>
+
+  <rect x="0" y="0" width="700" height="70" rx="12" fill="#0d1117"/>
+
+  <g clip-path="url(#marqueeClip)">
+    <!-- Track A: animates from x=700 to x=-1400 (one full loop of the duplicated content) -->
+    <g id="trackA">
+      <text x="0"   y="42" font-family="Fira Code, monospace" font-size="22" font-weight="600" fill="#A855F7">Flutter</text>
+      <text x="120" y="42" font-family="Fira Code, monospace" font-size="22" fill="#6A5BFF">•</text>
+      <text x="145" y="42" font-family="Fira Code, monospace" font-size="22" font-weight="600" fill="#00C6FF">Dart</text>
+      <text x="240" y="42" font-family="Fira Code, monospace" font-size="22" fill="#00F2C3">•</text>
+      <text x="265" y="42" font-family="Fira Code, monospace" font-size="22" font-weight="600" fill="#FF512F">Firebase</text>
+      <text x="410" y="42" font-family="Fira Code, monospace" font-size="22" fill="#F7971E">•</text>
+      <text x="435" y="42" font-family="Fira Code, monospace" font-size="22" font-weight="600" fill="#A855F7">AI Animation</text>
+      <text x="660" y="42" font-family="Fira Code, monospace" font-size="22" fill="#6A5BFF">•</text>
+      <text x="700" y="42" font-family="Fira Code, monospace" font-size="22" font-weight="600" fill="#00C6FF">Motion UI</text>
+      <text x="900" y="42" font-family="Fira Code, monospace" font-size="22" fill="#00F2C3">•</text>
+      <text x="925" y="42" font-family="Fira Code, monospace" font-size="22" font-weight="600" fill="#FF512F">Python</text>
+      <text x="1040" y="42" font-family="Fira Code, monospace" font-size="22" fill="#F7971E">•</text>
+      <text x="1065" y="42" font-family="Fira Code, monospace" font-size="22" font-weight="600" fill="#A855F7">Git &amp; GitHub</text>
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="700 0"
+        to="-1300 0"
+        dur="18s"
+        repeatCount="indefinite"/>
+    </g>
+
+    <!-- Track B: identical content offset by one full cycle behind, so the loop never shows a gap -->
+    <g id="trackB">
+      <text x="0"   y="42" font-family="Fira Code, monospace" font-size="22" font-weight="600" fill="#A855F7">Flutter</text>
+      <text x="120" y="42" font-family="Fira Code, monospace" font-size="22" fill="#6A5BFF">•</text>
+      <text x="145" y="42" font-family="Fira Code, monospace" font-size="22" font-weight="600" fill="#00C6FF">Dart</text>
+      <text x="240" y="42" font-family="Fira Code, monospace" font-size="22" fill="#00F2C3">•</text>
+      <text x="265" y="42" font-family="Fira Code, monospace" font-size="22" font-weight="600" fill="#FF512F">Firebase</text>
+      <text x="410" y="42" font-family="Fira Code, monospace" font-size="22" fill="#F7971E">•</text>
+      <text x="435" y="42" font-family="Fira Code, monospace" font-size="22" font-weight="600" fill="#A855F7">AI Animation</text>
+      <text x="660" y="42" font-family="Fira Code, monospace" font-size="22" fill="#6A5BFF">•</text>
+      <text x="700" y="42" font-family="Fira Code, monospace" font-size="22" font-weight="600" fill="#00C6FF">Motion UI</text>
+      <text x="900" y="42" font-family="Fira Code, monospace" font-size="22" fill="#00F2C3">•</text>
+      <text x="925" y="42" font-family="Fira Code, monospace" font-size="22" font-weight="600" fill="#FF512F">Python</text>
+      <text x="1040" y="42" font-family="Fira Code, monospace" font-size="22" fill="#F7971E">•</text>
+      <text x="1065" y="42" font-family="Fira Code, monospace" font-size="22" font-weight="600" fill="#A855F7">Git &amp; GitHub</text>
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="2000 0"
+        to="0 0"
+        dur="18s"
+        repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
