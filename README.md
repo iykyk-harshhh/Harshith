@@ -29,11 +29,13 @@ Building Mobile Applications, AI-Powered Products & Modern Digital Experiences
 
 ---
 
-## 🏆 GitHub Achievements
+## 🚀 Current Focus
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iykyk-harshhh&theme=discord&no-frame=true&row=1&column=6&margin-w=15" />
-</p>
+- Flutter Application Development
+- AI-Powered Products
+- Interactive & Animated Web Experiences
+- AI-GTM Systems
+- Backend Integration & Cloud Deployment
 
 ---
 
