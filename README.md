@@ -29,7 +29,7 @@ Building Mobile Applications, AI-Powered Products & Modern Digital Experiences
 
 ---
 
-## 🚀 Current Focus
+## 📈 Current Focus
 
 - Flutter Application Development
 - AI-Powered Products
@@ -92,7 +92,7 @@ Building Mobile Applications, AI-Powered Products & Modern Digital Experiences
 
 ## 📂 Featured Projects
 
-### 🧠 HeartGuard AI
+### 🫀 HeartGuard AI
 AI-powered heart disease prediction and risk assessment platform built using Flask, SQLite and Machine Learning.
 
 ### ⛽ SuperGas E-Com
