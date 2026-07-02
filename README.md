@@ -111,3 +111,4 @@ AI-powered skincare and haircare application.
 <p align="center">
 ⭐ Building Apps • AI Products • Modern Experiences
 </p>
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
